@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Meal Plan
 
-You can use the [editor on GitHub](https://github.com/juzham/meal-plan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Mains
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Chicken Enchilada Rice Casserole](https://www.recipetineats.com/one-pot-chicken-enchilada-rice-casserole)
+- [Chicken Shawarma](https://www.recipetineats.com/one-skillet-baked-chicken-shawarma-and-rice-pilaf)
+- [Chicken Mushroom Rigatoni](recipes/chicken_mushroom_rigatoni)
+- [Chicken Vegetable Ramen Noodels](https://www.recipetineats.com/chicken-vegetable-ramen-noodles)
+- [Chicken Pesto Pasta](recipes/chicken_pesto_pasta)
 
-### Markdown
+- [Morocan meatballs](recipes/morocan_meatballs)
+- [Beef & Cauliflower Curry](recipes/beef_and_cauliflower_curry)
+- [Chilli Con Carne](recipes/chilli_con_carne)
+- [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
+- [Bobotie](https://steemit.com/food/@mrgrey/traditional-south-african-bobotie-recipe-will-leave-you-licking-your-fingers)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
+- [Tuna Mornay](recipes/tuna_mornay)
 
-```markdown
-Syntax highlighted code block
+- [Spanish Rice with Prawns or Skewers](https://www.bigoven.com/recipe/baked-spanish-rice-thug-kitchen-style/971699)
+- [Mixed Veggie and Tofu Chilaquiles](https://madcityeats.com/mixed-veggie-and-tofu-chilaquiles-dbaede0470c5)
+- [Spiced Chickpea Tacos](https://samhodges.co/thug-kitchen-spiced-chickpea-wraps-tahini-dressing/)
 
-# Header 1
-## Header 2
-### Header 3
+- [Beef Bolognese]()
+- [Steak and Salad]()
+- [Fish and Salad]()
+- [Risotto]()
 
-- Bulleted
-- List
+## Easy
 
-1. Numbered
-2. List
+- Dumplings and broc
+- Veggie Burgers
+- Purchased Quiche and veggies
 
-**Bold** and _Italic_ and `Code` text
+## Salads
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Week 1
 
-### Jekyll Themes
+Day | Meal
+-- | --
+Monday |
+Tuesday |
+Wednesday |
+Thursday |
+Friday |
+Saturday |
+Sunday |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juzham/meal-plan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Week 2
 
-### Support or Contact
+## Week 3
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Week 4
