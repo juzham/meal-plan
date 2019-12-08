@@ -23,7 +23,7 @@
 
 - [Beef Bolognese]()
 - [Steak and Salad]()
-- [Fish and Salad]()
+- [Fish and Salad](https://www.delish.com/cooking/recipe-ideas/recipes/a54226/best-greek-salad-recipe/)
 - [Risotto]()
 
 ## Easy
@@ -39,11 +39,11 @@
 
 Day | Meal
 -- | --
-Monday |
-Tuesday |
+Monday | [Chicken Pesto Pasta](recipes/chicken_pesto_pasta)
+Tuesday | [Beef & Cauliflower Curry](recipes/beef_and_cauliflower_curry)
 Wednesday |
-Thursday |
-Friday |
+Thursday | [Fish and Salad](https://www.delish.com/cooking/recipe-ideas/recipes/a54226/best-greek-salad-recipe/)
+Friday | [Spiced Chickpea Tacos](https://samhodges.co/thug-kitchen-spiced-chickpea-wraps-tahini-dressing/)
 Saturday |
 Sunday |
 
