@@ -51,10 +51,10 @@ Sunday |
 ## Week 2
 
 Monday | [Chicken Vegetable Ramen Noodels](https://www.recipetineats.com/chicken-vegetable-ramen-noodles)
-Tuesday | [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
+Tuesday | [Tomato and Risoni Bake](https://www.cooked.com.au/Sabrina-Parrini/Hardie-Grant-Books/Half-Hour-Hungries/Bigger-bites/Tomato-and-risoni-bake-recipe)
 Wednesday |
-Thursday | [Tomato and Risoni Bake](https://www.cooked.com.au/Sabrina-Parrini/Hardie-Grant-Books/Half-Hour-Hungries/Bigger-bites/Tomato-and-risoni-bake-recipe)
-Friday |
+Thursday |
+Friday | [Beef Bolognese](/)
 Saturday |
 Sunday |
 
@@ -71,7 +71,7 @@ Sunday |
 ## Week 4
 
 Monday | [Chicken Mushroom Rigatoni](recipes/chicken_mushroom_rigatoni)
-Tuesday | [Beef Bolognese](/)
+Tuesday | [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
 Wednesday |
 Thursday | [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
 Friday |
