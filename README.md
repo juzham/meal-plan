@@ -16,6 +16,7 @@
 
 - [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
 - [Tuna Mornay](recipes/tuna_mornay)
+- [Salmon Soba Noodle Salad](https://www.taste.com.au/recipes/soba-noodles-salmon-ponzu-sauce/5aa6f408-7a44-4e10-86e9-fe68ee063261)
 
 - [Spanish Rice with Prawns or Skewers](https://www.bigoven.com/recipe/baked-spanish-rice-thug-kitchen-style/971699)
 - [Mixed Veggie and Tofu Chilaquiles](https://madcityeats.com/mixed-veggie-and-tofu-chilaquiles-dbaede0470c5)
