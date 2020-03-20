@@ -22,6 +22,7 @@
 - [Mixed Veggie and Tofu Chilaquiles](https://madcityeats.com/mixed-veggie-and-tofu-chilaquiles-dbaede0470c5)
 - [Spiced Chickpea Tacos](https://samhodges.co/thug-kitchen-spiced-chickpea-wraps-tahini-dressing/)
 - [Tomato and Risoni Bake](https://www.cooked.com.au/Sabrina-Parrini/Hardie-Grant-Books/Half-Hour-Hungries/Bigger-bites/Tomato-and-risoni-bake-recipe)
+- [Tuna Mushroom Pasta Bake](https://www.bestrecipes.com.au/recipes/tuna-mushroom-pasta-bake/7pk9yekh)
 
 - [Beef Bolognese](/)
 - [Steak and Salad](/)
