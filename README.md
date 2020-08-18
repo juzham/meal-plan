@@ -14,6 +14,8 @@
 - [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
 - [Bobotie](https://steemit.com/food/@mrgrey/traditional-south-african-bobotie-recipe-will-leave-you-licking-your-fingers)
 
+- [Slow Cooked Lamb Wraps](/)
+
 - [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
 - [Tuna Mornay](recipes/tuna_mornay)
 - [Salmon Soba Noodle Salad](https://www.taste.com.au/recipes/soba-noodles-salmon-ponzu-sauce/5aa6f408-7a44-4e10-86e9-fe68ee063261)
@@ -24,7 +26,8 @@
 - [Tomato and Risoni Bake](https://www.cooked.com.au/Sabrina-Parrini/Hardie-Grant-Books/Half-Hour-Hungries/Bigger-bites/Tomato-and-risoni-bake-recipe)
 - [Tuna Mushroom Pasta Bake](https://www.bestrecipes.com.au/recipes/tuna-mushroom-pasta-bake/7pk9yekh)
 - [Sweet Potato Chickpea Buddha Bowl](https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/)
-- [Sweet Corn Chowder](www.cooked.com.au/Katy-Beskow/Quadrille-Publishing/15-minute-vegan/Light-bites/Sweetcorn-chowder-recipe)
+- [Sweet Corn Chowder](https://www.cooked.com.au/Katy-Beskow/Quadrille-Publishing/15-minute-vegan/Light-bites/Sweetcorn-chowder-recipe)
+- [Vegetarian Nachos](https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1)
 
 - [Beef Bolognese](/)
 - [Steak and Salad](/)
