@@ -2,7 +2,7 @@
 
 ## Mains
 
-- [Chicken Enchilada Rice Casserole](https://www.recipetineats.com/one-pot-chicken-enchilada-rice-casserole)
+- [Chicken Enchilada Rice Casserole*](https://www.recipetineats.com/one-pot-chicken-enchilada-rice-casserole)
 - [Chicken Shawarma](https://www.recipetineats.com/one-skillet-baked-chicken-shawarma-and-rice-pilaf)
 - [Chicken Mushroom Rigatoni](recipes/chicken_mushroom_rigatoni)
 - [Chicken Vegetable Ramen Noodels](https://www.recipetineats.com/chicken-vegetable-ramen-noodles)
@@ -13,12 +13,18 @@
 - [Chilli Con Carne](recipes/chilli_con_carne)
 - [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
 - [Bobotie](https://steemit.com/food/@mrgrey/traditional-south-african-bobotie-recipe-will-leave-you-licking-your-fingers)
+- [Curried Beef Sweet Potato](https://www.taste.com.au/recipes/curried-beef-sweet-potato-bowl/f6teguzz)
+- Beef Bolognese
+- Steak and Salad
 
 - [Slow Cooked Lamb Wraps](/)
 
 - [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
 - [Tuna Mornay](recipes/tuna_mornay)
 - [Salmon Soba Noodle Salad](https://www.taste.com.au/recipes/soba-noodles-salmon-ponzu-sauce/5aa6f408-7a44-4e10-86e9-fe68ee063261)
+- [Tomato Tuna pasta bake](https://www.taste.com.au/recipes/healthy-tuna-pasta-bake-recipe-2/kt7jj814)
+- [One-pan fish with beans and tomatoes](https://www.taste.com.au/recipes/one-pan-fish-beans-tomatoes/3oyj7152)
+- Fish and Salad
 
 - [Spanish Rice with Prawns or Skewers](https://www.bigoven.com/recipe/baked-spanish-rice-thug-kitchen-style/971699)
 - [Mixed Veggie and Tofu Chilaquiles](https://madcityeats.com/mixed-veggie-and-tofu-chilaquiles-dbaede0470c5)
@@ -28,11 +34,13 @@
 - [Sweet Potato Chickpea Buddha Bowl](https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/)
 - [Sweet Corn Chowder](https://www.cooked.com.au/Katy-Beskow/Quadrille-Publishing/15-minute-vegan/Light-bites/Sweetcorn-chowder-recipe)
 - [Vegetarian Nachos](https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1)
+- [Mushroom pea Risotto](https://www.delish.com/cooking/recipe-ideas/recipes/a55215/easy-mushroom-risotto-recipe/)
 
-- [Beef Bolognese](/)
-- [Steak and Salad](/)
-- [Fish and Salad](https://www.delish.com/cooking/recipe-ideas/recipes/a54226/best-greek-salad-recipe/)
-- [Risotto](/)
+## Salads
+
+- [Greek Salad](https://www.delish.com/cooking/recipe-ideas/recipes/a54226/best-greek-salad-recipe/)
+- [Mixed Tomato with Lentils](https://www.taste.com.au/recipes/mixed-tomato-salad-lentils-recipe/emdqqsd4)
+- [Cannellini bean and tomato](https://www.taste.com.au/recipes/cannellini-bean-tomato-salad/a25138f0-c804-413e-a64f-5dbba4e9a659)
 
 ## Easy
 
