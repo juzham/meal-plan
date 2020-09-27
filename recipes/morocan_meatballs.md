@@ -1,6 +1,6 @@
 # Moroccan Meatballs
 
-Ingredients
+## Ingredients
 
 - 500g beef mince 
 - 1 red onion 
@@ -12,7 +12,7 @@ Ingredients
 - fresh continental parsley, roughly chopped 
 - 1 cup couscous 
 
-Instructions
+## Instructions
 
 1. Make the meatballs
 In a bowl, combine the mince, onion, ginger, garlic, chilli and cumin. Season to taste. Roll the mixture into balls, 1 tablespoon at a time.

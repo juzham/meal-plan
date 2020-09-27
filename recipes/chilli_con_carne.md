@@ -17,7 +17,7 @@
 - 2 tsp ground paprika 
 - 1 pinch dried chilli flakes 
 
-Instructions
+## Instructions
 
 1. Cook rice 
 Cook the required amount of rice as per the instructions on the pack

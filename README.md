@@ -7,6 +7,7 @@
 - [Chicken Mushroom Rigatoni](recipes/chicken_mushroom_rigatoni)
 - [Chicken Vegetable Ramen Noodels](https://www.recipetineats.com/chicken-vegetable-ramen-noodles)
 - [Chicken Pesto Pasta](recipes/chicken_pesto_pasta)
+- [Slow Cooker Lemon Chicken](https://skinnyms.com/slow-cooker-lemon-chicken/)
 
 - [Morocan meatballs](recipes/morocan_meatballs)
 - [Beef & Cauliflower Curry](recipes/beef_and_cauliflower_curry)
@@ -14,10 +15,15 @@
 - [Shepards Pie](https://www.recipetineats.com/shepherds-pie)
 - [Bobotie](https://steemit.com/food/@mrgrey/traditional-south-african-bobotie-recipe-will-leave-you-licking-your-fingers)
 - [Curried Beef Sweet Potato](https://www.taste.com.au/recipes/curried-beef-sweet-potato-bowl/f6teguzz)
+- [Beef Goulash with Egg Noodle](http://www.eatingwell.com/recipe/251960/hungarian-beef-goulash/)
 - Beef Bolognese
 - Steak and Salad
 
-- [Slow Cooked Lamb Wraps](/)
+- [Lamb or Beef EggPlant Slow Cooker](http://eatmovelive52.com/easy-crockpot-beef-eggplant-stew-imam-bayalda/)
+- Slow Cooked Lamb Wraps
+
+- [Pork Cutlets with Apple Parsnip](https://www.taste.com.au/recipes/pork-cutlets-apple-parsnip/44ce9e71-991c-46b5-9cbe-79a3f35b8f11?ref=)
+- [Mexican Pulled Pork Wraps](https://www.taste.com.au/recipes/mexican-pulled-pork/4a802ca0-cf40-4f57-8988-44425dcfcee0?ref=)
 
 - [Salmon Patties with potato salad & broc](https://www.recipetineats.com/salmon-patties)
 - [Tuna Mornay](recipes/tuna_mornay)
@@ -42,20 +48,25 @@
 - [Mixed Tomato with Lentils](https://www.taste.com.au/recipes/mixed-tomato-salad-lentils-recipe/emdqqsd4)
 - [Cannellini bean and tomato](https://www.taste.com.au/recipes/cannellini-bean-tomato-salad/a25138f0-c804-413e-a64f-5dbba4e9a659)
 
+## Snacks
+
+- carrots
+- tomatoes
+- celery
+- strawberries
+- hummus (made with olive oil)
+
 ## Easy
 
 - Dumplings and broc
 - Veggie Burgers
 - Purchased Quiche and veggies
 
-## Salads
-
-
 ## Week 1
 
-Day | Meal
+Day | Meal |
 -- | --
-Monday | [Fish and Salad](https://www.delish.com/cooking/recipe-ideas/recipes/a54226/best-greek-salad-recipe/)
+Monday | Fish and Salad
 Tuesday | [Beef & Cauliflower Curry](recipes/beef_and_cauliflower_curry)
 Wednesday |
 Thursday | [Chicken Pesto Pasta](recipes/chicken_pesto_pasta)

@@ -1,21 +1,21 @@
 # Beef & Cauliflower Curry
 
-- 500g beef mince 
-- 1 brown onion, diced 
-- 2 cloves of garlic, crushed 
-- 1 sweet potato, peeled and cut into 2cm cubes 
-- 1/2 cauliflower, cut into small florets 
-- 400g canned diced tomatoes 
-- 2 tbsp red curry paste 
-- 1 cup frozen peas 
+- 500g beef mince
+- 1 brown onion, diced
+- 2 cloves of garlic, crushed
+- 1 sweet potato, peeled and cut into 2cm cubes
+- 1/2 cauliflower, cut into small florets
+- 400g canned diced tomatoes
+- 2 tbsp red curry paste
+- 1 cup frozen peas
 
-Ingredients (pantry items) 
+## Ingredients (pantry items)
 
-- 1 cup white rice 
-- 1 cup water 
-- 2 tbsp olive oil 
+- 1 cup white rice
+- 1 cup water
+- 2 tbsp olive oil
 
-Instructions
+## Instructions
 
 1. Cook the rice
 Add the rice to a saucepan with double the amount of water. Bring to the boil and cook until rice is soft and water is absorbed. Set aside.

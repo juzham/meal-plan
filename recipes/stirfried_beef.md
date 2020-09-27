@@ -8,7 +8,7 @@
 - 1 bunch pak choy, leaves separated & washed, roughly chopped 
 - 150g button mushrooms, halved 
 
-Ingredients (pantry items)
+## Ingredients (pantry items)
 
 - 2 tbsp sesame oil (Pantry item) 
 - 2 tbsp soy sauce (Pantry item) 
@@ -16,7 +16,7 @@ Ingredients (pantry items)
 - 1 tbsp sweet chilli sauce (Pantry item) 
 - 1 cup rice (Pantry item) 
 
-Instructions
+## Instructions
 
 1. Cook the beef
 In a wok or large frying pan, heat half of the oil on high. Stir-fry the beef for 1-2 minutes then set aside.

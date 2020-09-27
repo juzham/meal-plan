@@ -8,13 +8,13 @@
 - 600ml thickened cream 
 - 1/4 cup fresh chives, chopped
 
-Ingredients (pantry items) 
+## Ingredients (pantry items) 
 
 - 1 tbsp olive oil 
 - 40g butter 
 - 1 tbsp seeded mustard 
 
-Instructions
+## Instructions
 
 1. Cook chicken
 Heat the butter and half of the oil in a large frying pan. Cook chicken in batches until browned all over then remove from the pan.
